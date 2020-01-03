@@ -7,6 +7,7 @@ tags:
     - historical
     - prussian
     - napoleonic
+    - series-begin
 series: ["Prussian 11th Brigade"]
 ---
 
