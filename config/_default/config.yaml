@@ -2,8 +2,22 @@ baseURL: "https://peterkuehne.com/"
 languageCode: "en-gb"
 title: "Peter Kühne's Blog"
 sectionPagesMenu: "main"
+disqusShortname: "peterkuehne"
 theme: "mainroad"
 
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      footnote: true
+      strikethrough: true
+      table: true
+      
 # Ananke Theme
 params:
   favicon: ""
@@ -22,6 +36,7 @@ params:
   post_meta:
     - "date"
     - "categories"
+    # - "series"
   mainSections:
     - "posts"
     - "about"
