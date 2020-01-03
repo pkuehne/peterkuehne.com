@@ -1,0 +1,4 @@
+baseURL: "http://192.168.1.11:1313/"
+buildDrafts: true
+build:Expired: true
+buildFuture: true

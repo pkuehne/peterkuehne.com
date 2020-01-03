@@ -1,0 +1,46 @@
+baseURL: "https://peterkuehne.com/"
+languageCode: "en-gb"
+title: "Peter Kühne's Blog"
+sectionPagesMenu: "main"
+theme: "mainroad"
+
+# Ananke Theme
+params:
+  favicon: ""
+  description: "My personal/hobby blog"
+  facebook: "https://facebook.com/quantumpete"
+  twitter: "https://twitter.com/peter_kuehne"
+  github: "https://github.com/pkuehne/"
+  linkedin: "https://www.linkedin.com/in/peter-kuehne/"
+
+# Mainroad Theme
+params:
+  twitter_cards: true
+  readmore: true
+  authorbox: false
+  post_navigation: true
+  post_meta:
+    - "date"
+    - "categories"
+  mainSections:
+    - "posts"
+    - "about"
+  dateformat: "2006-01-02"
+  sidebar:
+    home: "right"
+    list: "right"
+    single: "right"
+    widgets:
+      - "search"
+      - "categories"
+      - "taglist"
+      - "social"
+  widgets:
+    recent_num: 5
+    tags_counter: true
+    social:
+      facebook: "quantumpete"
+      twitter: "peter_kuehne"
+      linkedin: "peter-kuehne"
+      github: "pkuehne"
+      email: "webmaster@peterkuehne.com"
