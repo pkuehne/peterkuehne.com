@@ -9,7 +9,7 @@ tags:
 series: [""]
 ---
 
-The most annoying thing about having a website or blog for me has always been in writing content for it. Getting stuff published is a close second though. So when I wanted to revive this blog and actually have a proper web presence for once, I resolved that it should be as easy as possible to do it. 
+The most annoying thing about having a website or blog for me has always been in writing content for it. Getting stuff published is a close second though. So when I wanted to revive this blog and actually have a proper web presence for once, I resolved that it should be as easy as possible to do it.
 
 So first thing I did was to put this blog up as a Github repo so that I could access it from anywhere. Particularly as I tend to move between Raspberry Pis, WSL, the NUC and my laptop when developing code or doing anything else command line. So in case anything dies accidentally, I wantedt to have a safe central storage.
 
@@ -19,7 +19,7 @@ Instead, I wanted to use Continuous Delivery, just like the CI/CD systems at wor
 
 I adjusted it a bit to build my hugo site instead of using `yarn` and to checkout the submodules, which contain the themes as well, without which the build kind of fails.
 
-I ran it the second time[^second-time] and hey presto! it works. Well, kind of. I saw the landing page, but none of the folders worked properly and if you've used a static site generator before, you know that all posts, categories, lists, etc sit in sub-folders. I spent a good thirty minutes trying to update permissions on my S3 bucket, until I decided to check my CloudFront setup. It was correctly pointing at my bucket, but apparently the URL wasn't quite right. I'm not sure what exactly what happened, but as you can see now, it works. 
+I ran it the second time[^second-time] and hey presto! it works. Well, kind of. I saw the landing page, but none of the folders worked properly and if you've used a static site generator before, you know that all posts, categories, lists, etc sit in sub-folders. I spent a good thirty minutes trying to update permissions on my S3 bucket, until I decided to check my CloudFront setup. It was correctly pointing at my bucket, but apparently the URL wasn't quite right. I'm not sure what exactly what happened, but as you can see now, it works.
 
 [travis]: https://travis-ci.org/
 [github-actions]: https://github.com/features/actions

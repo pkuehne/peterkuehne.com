@@ -10,14 +10,15 @@ tags:
 series: [""]
 ---
 
-I've had my own [internal DNS][post-internal-dns] for a while now and it's been working great. I've even pointed my router's DHCP config to hand out the Raspberry Pi's IP address as the network's authoritative DNS Server. 
+I've had my own [internal DNS][post-internal-dns] for a while now and it's been working great. I've even pointed my router's DHCP config to hand out the Raspberry Pi's IP address as the network's authoritative DNS Server.
 
-At the same time I've used [AdBlock Plus][adblock-plus] for a while now in my browser, but I was always unhappy that I couldn't have the same thing on my Pixel as well. Particularly as ads and popups are even more annoying on a small screen when you just want to look something up. (edit: *Adblock Plus has since been release for mobile, but the rest of this still stands*). 
+At the same time I've used [AdBlock Plus][adblock-plus] for a while now in my browser, but I was always unhappy that I couldn't have the same thing on my Pixel as well. Particularly as ads and popups are even more annoying on a small screen when you just want to look something up. (edit: *Adblock Plus has since been release for mobile, but the rest of this still stands*).
 
 I started looking into [Pi-hole][pi-hole] as a way to do network-level blocking of ads. After reading the documentation and some questions on StackOverflow, it quickly became apparent that Pi-hole is just a souped-up version of my own DNS server, even running `dnsmasq`. I didn't feel like giving up my own DNS server and a whole Raspberry Pi, so went ahead and replicated the setup myself through my trusty Ansible setup.
 
 First thing was to find a source for the adblock domains, etc. I was extremely fortunate to find that someone not only already maintains a list but even has it in `dnsmasq` config notation. So all I had to do was to to download it and then include it in my own config.
 
+<!-- markdownlint-disable -->
 {{< highlight yaml >}}
 tasks:
   - name: "Download adblock domains"
@@ -33,14 +34,17 @@ tasks:
       dest: "/etc/adblock_hosts.dnsmasq"
       force: yes
 {{< / highlight >}}
+<!-- markdownlint-restore-->
 
 Then in the `dnsmasq` config file template I could simply insert the two files as configuration and additional hosts respectively:
 
+<!-- markdownlint-disable -->
 {{< highlight cfg >}}
 # Adblock
 conf-file=/etc/adblock_domains.dnsmasq
 addn-hosts=/etc/adblock_hosts.dnsmasq
 {{< / highlight >}}
+<!-- markdownlint-restore -->
 
 This responds to known adserver domains with an `NXDOMAIN`, meaning that it pretends there is no such domain available to resolve to an IP. Most adserver code fails gracefully if it can't find its domain to server ads from. So in the majority of cases, it just silently doesn't show you any ads.
 

@@ -14,7 +14,7 @@ series: ["ASOIAF Kickstarter"]
 
 {{< figure src="/asoiaf-box.jpg" title="What have I done?!" >}}
 
-So a while back I backed the Kickstarter for the boardgame *A Song of Ice and Fire* by CMON Games, which is not based on the TV series *Game of Thrones*, but the original books. I thought the models looked great[^1], so I splurged and backed whatever the highest tier was that would get me all the special Kickstarter-only minis. 
+So a while back I backed the Kickstarter for the boardgame *A Song of Ice and Fire* by CMON Games, which is not based on the TV series *Game of Thrones*, but the original books. I thought the models looked great[^1], so I splurged and backed whatever the highest tier was that would get me all the special Kickstarter-only minis.
 
 And now they just arrived.
 
