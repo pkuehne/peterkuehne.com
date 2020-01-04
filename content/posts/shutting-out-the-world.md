@@ -1,7 +1,7 @@
 ---
 title: Shutting out the World
 date: 2019-07-17
-draft: true
+draft: false
 categories: [home-network]
 tags: 
     - docker 

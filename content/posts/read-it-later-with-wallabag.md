@@ -7,8 +7,7 @@ categories:
   - home-network
 tags:
   - ansible
-  - webclipper
-  - read-it-later
+  - wallabag
   - self-hosted
 ---
 
@@ -28,7 +27,7 @@ So I went on a hunt for a self-hosted alternative. The mother of all references 
 - It runs in a docker container
 - It integrates with RSS readers
 
-So I went about setting it up on my system. Luckily, I already had Docker installed on my _Intel NUC_ which runs all my apps.
+So I went about setting it up on my system. Luckily, I already had Docker installed on my _Intel NUC_ which runs all my apps. I created a new Ansible role for it, pulled a recent Docker image off the Hub and ran it. Just worked.
 
 [instapaper]: https://www.instapaper.com/
 [pocket]: https://getpocket.com/
