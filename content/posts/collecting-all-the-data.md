@@ -54,4 +54,4 @@ Eventually, I want to re-enable collecting all my Home Assistant data as well as
 [influxdb]: https://www.influxdata.com
 [grafana]: https://grafana.com
 [telegraf]: https://github.com/influxdata/telegraf
-[tag-ansible]: {{< ref "tags/ansible" >}}
+[tag-ansible]: {{< ref "/tags/ansible" >}}
