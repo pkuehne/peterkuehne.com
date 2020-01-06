@@ -1,9 +1,20 @@
 baseURL: "https://peterkuehne.com/"
 languageCode: "en-gb"
 title: "Peter Kühne's Blog"
-sectionPagesMenu: "main"
+enableEmoji: true
 disqusShortname: "peterkuehne"
 theme: "mainroad"
+
+menu:
+  main:
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 0
 
 taxonomies:
   category: categories
@@ -12,21 +23,7 @@ taxonomies:
   
 markup:
   defaultMarkdownHandler: goldmark
-  goldmark:
-    extensions:
-      footnote: true
-      strikethrough: true
-      table: true
       
-# Ananke Theme
-params:
-  favicon: ""
-  description: "My personal/hobby blog"
-  facebook: "https://facebook.com/quantumpete"
-  twitter: "https://twitter.com/peter_kuehne"
-  github: "https://github.com/pkuehne/"
-  linkedin: "https://www.linkedin.com/in/peter-kuehne/"
-
 # Mainroad Theme
 params:
   twitter_cards: true
@@ -46,12 +43,12 @@ params:
     list: "right"
     single: "right"
     widgets:
-      - "search"
+      - "recent"
       - "categories"
       - "taglist"
       - "social"
   widgets:
-    recent_num: 5
+    recent_num: 3
     tags_counter: true
     social:
       facebook: "quantumpete"
