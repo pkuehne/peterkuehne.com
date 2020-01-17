@@ -8,6 +8,7 @@ tags:
     - fantasy
     - progress
     - stark
+    - cmon
 series: ["ASOIAF Kickstarter"]
 ---
 
