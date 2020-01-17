@@ -1,7 +1,7 @@
 ---
 title: "Adding a Schema to LDAP"
-date: 2020-01-15
-draft: true
+date: 2020-01-17
+draft: false
 categories: ["home-network"]
 tags:
     - ldap
