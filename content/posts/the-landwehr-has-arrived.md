@@ -7,6 +7,7 @@ tags:
     - historical
     - prussian
     - napoleonic
+    - warlord
 series: ["Prussian 11th Brigade"]
 ---
 
