@@ -1,4 +1,4 @@
-baseURL: "http://192.168.1.11:1313/"
+title: "(DEV) Peter Kühne's Blog"
 buildDrafts: true
-build:Expired: true
+buildExpired: true
 buildFuture: true
