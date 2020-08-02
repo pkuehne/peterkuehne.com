@@ -6,7 +6,7 @@ categories: ["home-network"]
 tags:
     - tautulli
     - influxdb
-    - ansible
+    - ansible 
     - home-assistant
 series: [""]
 ---
@@ -52,8 +52,9 @@ Then is was just a matter of setting up the Grafana instance again and using inf
 
 Eventually, I want to re-enable collecting all my Home Assistant data as well as all the stats in Tautulli (and anything else I can think of).
 
-[^backup]: Memo to me: Set up a backup process
+
 [influxdb]: https://www.influxdata.com
 [grafana]: https://grafana.com
 [telegraf]: https://github.com/influxdata/telegraf
 [tag-ansible]: {{< ref "/tags/ansible" >}}
+[^backup]: Memo to me: Set up a backup process

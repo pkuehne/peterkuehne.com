@@ -14,5 +14,5 @@ My blog is also for other hobby exploits, such as painting miniatures, doing fam
 To send me an encrypted e-mail or verify a signature, use my [public key][public-key]
 
 [bloomberg-careers]: https://www.bloomberg.com/careers
-[^1]: All views and opinions expressed are my own.
 [public-key]:/public_key.asc
+[^1]: All views and opinions expressed are my own.
