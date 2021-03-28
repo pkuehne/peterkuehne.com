@@ -1,0 +1,13 @@
+{{ with .Params.Series }}
+<div class="meta__item-categories meta__item">
+    {{ partial "svg/series.svg" (dict "class" "meta__icon") }}
+    <span class="meta__text">
+        {{- $url := urls.Parse (. | urlize) -}}
+        {{- $path := $url.Path -}}
+        {{- with $.Site.GetPage (printf "/series/%s" $path) }}
+        <a class="meta__link" href="{{ .RelPermalink }}" rel="category">{{ .Title }}</a>
+        {{- end }}
+
+    </span>
+</div>
+{{ end }}

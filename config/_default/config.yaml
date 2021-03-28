@@ -33,7 +33,7 @@ params:
   post_meta:
     - "date"
     - "categories"
-    # - "series"
+    - "series"
   mainSections:
     - "posts"
     - "about"
@@ -56,4 +56,4 @@ params:
       instagram: "peter.kuehne"
       linkedin: "peter-kuehne"
       github: "pkuehne"
-      email: "webmaster@peterkuehne.com"
+      email: "pkuehne.webmaster@mailnull.com"
