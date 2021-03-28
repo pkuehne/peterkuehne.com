@@ -7,7 +7,7 @@ tags:
     - restic
     - backup
     - influxdb
-series: []
+series: ""
 ---
 
 ## Backup a sec

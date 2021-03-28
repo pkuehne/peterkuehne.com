@@ -7,12 +7,12 @@ tags:
     - hugo
     - blog
     - docker
-series: []
+series: ""
 ---
 
-When I started writing this blog, I had put aside a spare Raspberry Pi as kind of "dev" server. A place I could freely install stuff, test out code and run my [Ansible][tag-ansible] playbooks. The main reason to keep this separate from the server which runs all my services was because there was limited disk space on the server[^apt]. 
+When I started writing this blog, I had put aside a spare Raspberry Pi as kind of "dev" server. A place I could freely install stuff, test out code and run my [Ansible][tag-ansible] playbooks. The main reason to keep this separate from the server which runs all my services was because there was limited disk space on the server[^apt].
 
-One of the biggest challenges was to keep my version of [hugo] up-to-date and to remember not to publish my blog entries with the `draft` switch enabled[^history]. I also wanted to get off the dev server and having to remember which internal IP I need to point at to see the preview. 
+One of the biggest challenges was to keep my version of [hugo] up-to-date and to remember not to publish my blog entries with the `draft` switch enabled[^history]. I also wanted to get off the dev server and having to remember which internal IP I need to point at to see the preview.
 
 Then I remembered, I already have my own [domain] setup in my home-network where I could host the preview! All the Docker containers on my server are already connected to a [traefik] container, which takes care of routing the subdomains to the relevant container IPs[^v1]. All I have to do is add a label to a Docker container with the right subdomain and as soon as it starts up, traefik will reverse-proxy that subdomain to the container's exposed IP address.
 
@@ -52,12 +52,14 @@ This will, by default render a production version of my site, excluding drafts, 
 
 The final bonus came when I rememberd that the `CMD` section can be completely overriden when creating a container. Since the `hugo` commmand itself is quite useful for scaffolding new posts, etc, I didn't want to miss out on that just because I don't have it installed directly on my server. So I now have a script that can do this, though it's just as simple to do something like this in a script:
 
+<!-- markdownlint-disable -->
 {{< highlight bash >}}
 #! /bin/bash
 
 docker run --rm -t -v `pwd`:/src pkuehne/hugo $*
 
 {{< /highlight >}}
+<!-- markdownlint-restore -->
 
 Call the script `hugo` and you can do things like: `./hugo new post/a-new-post.md` (note the leading `./`).
 

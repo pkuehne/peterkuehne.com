@@ -6,7 +6,7 @@ categories: ["miniatures"]
 tags:
     - historical
     - roman
-series: []
+series: ""
 ---
 
 ![Cherusci](/cherusci.jpg)

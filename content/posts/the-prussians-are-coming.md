@@ -8,7 +8,7 @@ tags:
     - prussian
     - napoleonic
     - series-begin
-series: ["Prussian 11th Brigade"]
+series: "Prussian 11th Brigade"
 ---
 
 {{< figure src="/prussians-marching.jpg" title="The Prussians are coming" >}}

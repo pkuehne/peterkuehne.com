@@ -6,7 +6,7 @@ categories: ["home-network"]
 tags:
     - ldap
     - docker
-series: []
+series: ""
 ---
 
 I've had an LDAP setup for a quite a while[^1], but I've never really used it. Sure, I could set up my [Dokuwiki][dokuwiki] to get the logins and groups from LDAP and that's kind of what it's for, but that wasn't enough. I wanted to use LDAP as a central configuration/setup/inventory management system. Configure my mail server to lookup email addresses there, assign port numbers and hosts for my services from there, etc.

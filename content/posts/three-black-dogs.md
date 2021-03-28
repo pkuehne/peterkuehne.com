@@ -8,7 +8,7 @@ tags:
     - fantasy
     - progress
     - lannister
-series: ["ASOIAF Kickstarter"]
+series: "ASOIAF Kickstarter"
 ---
 
 {{< figure src="/mountains-men.jpg" title="Here come the Mountain's Men" >}}

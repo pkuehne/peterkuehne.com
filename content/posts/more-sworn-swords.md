@@ -9,7 +9,7 @@ tags:
     - progress
     - stark
     - cmon
-series: ["ASOIAF Kickstarter"]
+series: "ASOIAF Kickstarter"
 ---
 
 ![Sworn Swords](/more-sworn-swords.jpg)

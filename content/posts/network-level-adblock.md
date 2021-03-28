@@ -7,7 +7,7 @@ tags:
     - dns
     - adblock
     - ansible
-series: [""]
+series: ""
 ---
 
 I've had my own [internal DNS][post-internal-dns] for a while now and it's been working great. I've even pointed my router's DHCP config to hand out the Raspberry Pi's IP address as the network's authoritative DNS Server.

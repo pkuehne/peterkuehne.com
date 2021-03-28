@@ -7,7 +7,7 @@ tags:
     - historical
     - prussian
     - napoleonic
-series: ["Prussian 11th Brigade"]
+series: "Prussian 11th Brigade"
 ---
 
 {{< figure src="/prussians-jaegers.jpg" title="Love the poses" >}}

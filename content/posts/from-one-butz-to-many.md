@@ -6,7 +6,7 @@ categories: ["genealogy"]
 tags:
     - butz
     - archives
-series: []
+series: ""
 ---
 
 My great-grandfather was [Karl Butz][karl-butz] and there was very little I knew about his father, [Karl Heinrich Butz][heinrich-butz] other than that he lived with his son in Böhmen and died there. All my mother could tell me is that he was apparently from Krefeld in north-west Germany. I found a clipping from a newspaper in the town that he died, which confirmed this and gave me a rough birth date.

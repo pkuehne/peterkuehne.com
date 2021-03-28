@@ -9,7 +9,7 @@ tags:
     - archive
     - ansible
     - ldap
-series: []
+series: ""
 ---
 
 ## Background

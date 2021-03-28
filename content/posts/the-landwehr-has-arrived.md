@@ -8,7 +8,7 @@ tags:
     - prussian
     - napoleonic
     - warlord
-series: ["Prussian 11th Brigade"]
+series: "Prussian 11th Brigade"
 ---
 
 {{< figure src="/warlord-provides.jpg" title="Warlord Provides!" >}}

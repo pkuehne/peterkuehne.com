@@ -8,7 +8,7 @@ tags:
     - fantasy
     - progress
     - lannister
-series: ["ASOIAF Kickstarter"]
+series: "ASOIAF Kickstarter"
 ---
 
 {{< figure src="/knights-of-casterly-rock.jpg" title="Painted and based" >}}

@@ -8,7 +8,7 @@ tags:
     - fantasy
     - asoiaf
     - lannister
-series: ["ASOIAF Kickstarter"]
+series: "ASOIAF Kickstarter"
 ---
 
 {{< figure src="/lannister-halbediers.jpg" title="Painted and based" >}}

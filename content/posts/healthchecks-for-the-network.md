@@ -6,7 +6,7 @@ categories: ["home-network"]
 tags:
     - healthcheck
     - ansible
-series: [""]
+series: ""
 ---
 
 Over the Christmas holidays, we spent a couple of weeks abroad with family. During this time, I still like to have access to my network, both for the self-hosted services I have but also so I can play around with new ideas during the downtime.

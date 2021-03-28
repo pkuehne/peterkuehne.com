@@ -6,7 +6,7 @@ categories: ["miniatures"]
 tags:
     - cmon
     - cthulhu
-series: ["Cthulhu - Death May Die"]
+series: "Cthulhu - Death May Die"
 ---
 
 {{< figure src="/the-next-five-investigators.jpg" title="Elizabeth, Ian, Fatima, Ahmed, Morgan" >}}

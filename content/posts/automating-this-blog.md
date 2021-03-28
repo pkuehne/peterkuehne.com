@@ -6,7 +6,7 @@ categories: ["technology"]
 tags:
     - hugo
     - blog
-series: [""]
+series: ""
 ---
 
 The most annoying thing about having a website or blog for me has always been in writing content for it. Getting stuff published is a close second though. So when I wanted to revive this blog and actually have a proper web presence for once, I resolved that it should be as easy as possible to do it.

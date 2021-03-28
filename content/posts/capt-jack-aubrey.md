@@ -5,7 +5,7 @@ draft: false
 categories: ["miniatures"]
 tags:
     - warlord
-series: []
+series: ""
 ---
 
 ![Capt Jack Aubrey](/capt-jack-aubrey.jpg)

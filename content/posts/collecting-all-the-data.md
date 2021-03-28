@@ -8,7 +8,7 @@ tags:
     - influxdb
     - ansible 
     - home-assistant
-series: [""]
+series: ""
 ---
 
 I set up [influxdb][influxdb] a while back on my NUC, so that I could have a TIG ([Telegraf][telegraf]/[Influxdb][influxdb]/[Grafana][grafana]) stack running and capture nice metrics on my home network. What I didn't find out until later is that you shouldn't put Influxdb on a network drive, it generated a network storm, maxing out my NUC's CPU waiting on I/O operations to complete. I tore down the TIG stack and hadn't used it since. That was about a year ago and I thought it was time to revisit the whole idea.
@@ -51,7 +51,6 @@ Then is was just a matter of setting up the Grafana instance again and using inf
 {{< figure src="/cpu-graph.png" title="CPU stats for my Pis" >}}
 
 Eventually, I want to re-enable collecting all my Home Assistant data as well as all the stats in Tautulli (and anything else I can think of).
-
 
 [influxdb]: https://www.influxdata.com
 [grafana]: https://grafana.com

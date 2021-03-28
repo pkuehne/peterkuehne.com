@@ -10,7 +10,7 @@ tags:
     - black-seas
     - christmas
     - warlord
-series: []
+series: ""
 ---
 Father Christmas has been very kind to me this year!
 
@@ -24,10 +24,9 @@ First pressie on Christmas Eve, this is a new era of historical miniatures for m
 
 ### Black Seas: Master and Commander
 
-I got this one today actually, as my wife had accidentally left it at home, but what a welcome surprise. I can't lie, I've been itching to grab this [starter set][black-seas] ever since it was announced. I already had my eye on [Cruel Seas][cruel-seas], but I just wasn't into the whole e-boat thing, I wanted sails! So when Warlord brought out [Black Seas][black-seas] I _immediately_ wanted to buy it. Too bad that I had vowed to only buy new minis once I've painted what I have  :sob:. So all that was left to me was to open up the store page once a week and marvel at the gorgeous models being put up there, including third and first rates! Thankfully the ban on buying models doesn't extend to anyone else, so I'm now the proud owner of two frigates and six brigs, which I will begin to assemble and paint shortly. 
+I got this one today actually, as my wife had accidentally left it at home, but what a welcome surprise. I can't lie, I've been itching to grab this [starter set][black-seas] ever since it was announced. I already had my eye on [Cruel Seas][cruel-seas], but I just wasn't into the whole e-boat thing, I wanted sails! So when Warlord brought out [Black Seas][black-seas] I _immediately_ wanted to buy it. Too bad that I had vowed to only buy new minis once I've painted what I have  :sob:. So all that was left to me was to open up the store page once a week and marvel at the gorgeous models being put up there, including third and first rates! Thankfully the ban on buying models doesn't extend to anyone else, so I'm now the proud owner of two frigates and six brigs, which I will begin to assemble and paint shortly.
 
 So Santa has been very busy this Christmas to make sure that I'm going to be very busy building, painting and playing with all my shiny new toys. And if I can, make a dent in the current "lead" pile.
-
 
 [cthulhu-game]: https://www.kickstarter.com/projects/cmon/cthulhu-death-may-die
 [cmon]: https://www.cmon.com/product/cthulhu-death-may-die/cthulhu-death-may-die

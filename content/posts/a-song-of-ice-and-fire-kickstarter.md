@@ -9,7 +9,7 @@ tags:
     - kickstarter
     - series-begin
     - cmon
-series: ["ASOIAF Kickstarter"]
+series: "ASOIAF Kickstarter"
 ---
 
 {{< figure src="/asoiaf-box.jpg" title="What have I done?!" >}}

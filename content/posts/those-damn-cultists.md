@@ -7,7 +7,7 @@ tags:
     - cmon
     - series-begin
     - cthulhu
-series: ["Cthulhu - Death May Die"]
+series: "Cthulhu - Death May Die"
 ---
 
 {{< figure src="/the-first-five-investigators.jpg" title="Adam, Rasputin, Borden, Sister Beth, The Kid" >}}

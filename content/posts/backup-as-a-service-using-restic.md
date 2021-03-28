@@ -8,7 +8,7 @@ tags:
     - backup
     - restic
     - ansible
-series: []
+series: ""
 ---
 
 Making backups of your work is one of those things that we all know we should do, but get lazy about actually setting up[^time]. Things are easier these days, particularly on Windows, where you can have your Documents folder automatically backed up to the cloud. You can also install GoogleDrive, DropBox, NextCloud as drives in Windows and have them sync automatically as well.
