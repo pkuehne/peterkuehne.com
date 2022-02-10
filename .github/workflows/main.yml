@@ -14,9 +14,11 @@ jobs:
           aws-access-key-id: ${{ secrets.ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.SECRET_ACCESS_KEY }}
           aws-region: us-east-1
-      - name: Build static site
+      - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.92.1"
+      - name: Build Static Site
+        run: hugo --minify
       - name: Deploy static site to S3 bucket
         run: aws s3 sync ./public/ s3://aws-website-peterkuehnecom-w7m6e --delete
