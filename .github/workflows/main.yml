@@ -4,9 +4,10 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
       with:
         submodules: recursive
+        fetch-depth: 0
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
@@ -14,6 +15,8 @@ jobs:
         aws-secret-access-key: ${{ secrets.SECRET_ACCESS_KEY }}
         aws-region: us-east-1
     - name: Build static site
-      uses: wcchristian/gh-action-hugo-build@v1.0
+      uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.92.1'
     - name: Deploy static site to S3 bucket
       run: aws s3 sync ./public/ s3://aws-website-peterkuehnecom-w7m6e --delete
