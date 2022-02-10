@@ -11,10 +11,14 @@ menu:
       name: Blog
       url: /posts/
       weight: 1
+    - identifier: queue
+      name: Paint Challenge
+      url: /challenge/
+      weight: 2
     - identifier: about
       name: About
       url: /about/
-      weight: 0
+      weight: 10
 
 taxonomies:
   category: categories
