@@ -2,7 +2,7 @@
 title: "Collecting All the Data"
 date: 2019-12-11
 draft: false
-categories: ["home-network"]
+categories: ["Home Network"]
 tags:
     - tautulli
     - influxdb

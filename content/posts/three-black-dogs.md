@@ -2,7 +2,7 @@
 title: "Three Black Dogs on a Yellow Flag"
 date: 2019-03-10T14:24:09Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - asoiaf
     - fantasy

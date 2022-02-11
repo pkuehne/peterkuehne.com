@@ -2,7 +2,7 @@
 title: "The Landwehr Has Arrived"
 date: 2019-02-22T13:42:57Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - historical
     - prussian

@@ -2,7 +2,7 @@
 title: "Capt Jack Aubrey"
 date: 2020-03-21T13:43:15Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - warlord
 series: ""

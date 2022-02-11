@@ -2,7 +2,7 @@
 title: "Lannister Halbediers"
 date: 2019-01-28T14:17:19Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - progress
     - fantasy

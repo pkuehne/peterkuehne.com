@@ -2,7 +2,7 @@
 title: "Adding a Schema to LDAP"
 date: 2020-01-17
 draft: false
-categories: ["home-network"]
+categories: ["Home Network"]
 tags:
     - ldap
     - docker

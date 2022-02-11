@@ -2,7 +2,7 @@
 title: "The Cherusci Are Coming"
 date: 2019-11-24
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - historical
     - roman

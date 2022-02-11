@@ -2,7 +2,7 @@
 title: "Automating This Blog"
 date: 2020-01-04T15:50:09Z
 draft: false
-categories: ["technology"]
+categories: ["Technology"]
 tags:
     - hugo
     - blog

@@ -2,7 +2,7 @@
 title: "More Sworn Swords"
 date: 2020-05-06
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - asoiaf
     - fantasy

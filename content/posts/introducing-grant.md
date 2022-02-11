@@ -2,7 +2,7 @@
 title: "Introducing Grant"
 date: 2020-02-10
 draft: false
-categories: ["genealogy"]
+categories: ["Genealogy"]
 tags:
     - grant
     - research

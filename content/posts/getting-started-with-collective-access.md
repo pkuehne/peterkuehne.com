@@ -3,7 +3,7 @@ title: "Getting Started With Collective Access"
 date: 2020-03-15T18:55:54Z
 draft: false
 toc: true
-categories: ["genealogy"]
+categories: ["Genealogy"]
 tags:
     - docker
     - archive

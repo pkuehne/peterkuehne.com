@@ -2,7 +2,7 @@
 title: "January Painting Update"
 date: 2022-02-10T20:22:51Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - painting-challenge
     - hail-caesar

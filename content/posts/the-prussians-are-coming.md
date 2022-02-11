@@ -2,7 +2,7 @@
 title: "The Prussians Are Coming"
 date: 2019-01-29T08:36:13Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - historical
     - prussian

@@ -2,7 +2,7 @@
 title: "From One Butz to Many"
 date: 2020-02-25T21:16:40Z
 draft: false
-categories: ["genealogy"]
+categories: ["Genealogy"]
 tags:
     - butz
     - archives

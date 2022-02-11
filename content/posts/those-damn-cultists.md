@@ -2,7 +2,7 @@
 title: "Those Damn Cultists"
 date: 2020-01-24
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - cmon
     - series-begin

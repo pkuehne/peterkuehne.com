@@ -2,7 +2,7 @@
 title: "Healthchecks for the Network"
 date: 2020-01-11
 draft: false
-categories: ["home-network"]
+categories: ["Home Network"]
 tags:
     - healthcheck
     - ansible

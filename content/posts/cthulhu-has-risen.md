@@ -2,7 +2,7 @@
 title: "Cthulhu Has Risen"
 date: 2021-08-10T08:22:22Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - cmon
     - series-end

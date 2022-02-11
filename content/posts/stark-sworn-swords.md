@@ -2,7 +2,7 @@
 title: "Stark Sworn Swords"
 date: 2020-01-12
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - asoiaf
     - fantasy

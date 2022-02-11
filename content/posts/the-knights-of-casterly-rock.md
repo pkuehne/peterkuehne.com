@@ -2,7 +2,7 @@
 title: "The Knights of Casterly Rock"
 date: 2019-02-26T14:21:13Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - asoiaf
     - fantasy

@@ -2,7 +2,7 @@
 title: "The Investigators Are Here"
 date: 2020-04-05
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - cmon
     - cthulhu

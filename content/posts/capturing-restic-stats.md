@@ -2,7 +2,7 @@
 title: "Capturing Restic Stats"
 date: 2020-08-09
 draft: false
-categories: ["home-network"]
+categories: ["Home Network"]
 tags:
     - restic
     - backup
@@ -12,7 +12,7 @@ series: ""
 
 ## Backup a sec
 
-A while back I wrote a post about [restic], which is a great backup solution for incremental, encrypted backups. I played around with it for a bit, created an Ansible playbook to install it on my machines and made it simple to use by only having to add an entry to a file. Since then I've not used it again[^tried]. Like most backup solutions, it just sort of sat there and didn't do much. 
+A while back I wrote a post about [restic], which is a great backup solution for incremental, encrypted backups. I played around with it for a bit, created an Ansible playbook to install it on my machines and made it simple to use by only having to add an entry to a file. Since then I've not used it again[^tried]. Like most backup solutions, it just sort of sat there and didn't do much.
 
 Then I recently had a scare when my NUC started acting up after I'd upgraded to Ubuntu 18.04[^20]. So had a look at what configuration files or directories I definitely wanted to keep and added them to the `sources.lst` file, which drives what `restic` backs up. It worked, I even tried to do a restore and that all seemed to be OK. Then I wanted to take a look about how much data `restic` was actually backing up each time it ran. Granted, it is an incremental backup, but if enough changed, that could still be a lot of data.
 
@@ -60,6 +60,7 @@ STAT_ALL_TOTAL_SIZE=$(jq '.total_size' /tmp/restic_stats_all)
 We are only extracting a subset of the stats available here, the number of files changed and the total size uploaded, but this can be easily extended to capture everything that `restic` reports in the stat command.
 
 ## An influx of data
+
 I wrote a while back about how to setup [influxdb] (and related services) via `Ansible`, so this assumes that has already been done. To be fair, with plenty of docker images around it's not particularly difficult.
 
 It's a good idea to ensure the database exists before you start writing to it. Of course you can just create it once and assume you don't just delete it. One the other hand it's just one more request to make and should essentially be a no-op.

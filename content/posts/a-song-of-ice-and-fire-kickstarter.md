@@ -2,7 +2,7 @@
 title: "A Song of Ice and Fire Kickstarter"
 date: 2018-10-20T13:55:04Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - fantasy
     - asoiaf

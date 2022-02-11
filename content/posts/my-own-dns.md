@@ -2,7 +2,7 @@
 title: My Own DNS
 date: 2018-04-07
 draft: false
-categories: ["home-network"]
+categories: ["Home Network"]
 tags: 
     - ansible
     - dns

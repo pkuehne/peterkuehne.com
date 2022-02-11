@@ -2,7 +2,7 @@
 title: "Silesian Schützen Ready to Skirmish"
 date: 2019-03-17T13:50:08Z
 draft: false
-categories: ["miniatures"]
+categories: ["Miniatures"]
 tags:
     - historical
     - prussian

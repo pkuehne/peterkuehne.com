@@ -2,7 +2,7 @@
 title: "Running VMs on a Raspberry Pi 4"
 date: 2021-01-09T20:44:16Z
 draft: false
-categories: ["home-network"]
+categories: ["Home Network"]
 tags:
     - raspberry-pi
     - esxi

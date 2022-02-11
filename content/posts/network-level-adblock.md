@@ -2,7 +2,7 @@
 title: "Network Level Adblock"
 date: 2018-09-27
 draft: false
-categories: ["home-network"]
+categories: ["Home Network"]
 tags:
     - dns
     - adblock
