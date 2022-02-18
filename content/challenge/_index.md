@@ -24,8 +24,8 @@ Here's the complete list that will be updated as I make progress throughout the 
 * ~~2 Lannister Guard Flagbearers~~
 * ~~Lannister Guard Captain~~
 * ~~Lannister Assault Veteran~~
-* **Bronn**
-* **Ramsay Snow**
+* ~~Bronn~~
+* ~~Ramsay Snow~~
 * **The High Seneschal**
 * **Brienne of Tarth**
 * ~~Allan Quatermain~~
@@ -35,4 +35,4 @@ Here's the complete list that will be updated as I make progress throughout the 
 * **3 Frigates**
 * **6 Brigs**
 
-## Completed: 87/142 = **61%**
+## Completed: 89/142 = **62%**
