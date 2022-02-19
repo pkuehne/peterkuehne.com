@@ -42,6 +42,10 @@ markup:
 
 # Mainroad Theme
 params:
+  progress:
+    - name: "Painting Challenge"
+      now: 89
+      max: 142
   twitter_cards: true
   readmore: true
   authorbox: false
@@ -59,6 +63,7 @@ params:
     single: "right"
     widgets:
       - "ddg-search"
+      - "progress"
       - "recent"
       - "categories"
       - "taglist"

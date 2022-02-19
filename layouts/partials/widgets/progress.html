@@ -1,0 +1,20 @@
+<div class="widget-categories widget">
+    <h4 class="widget__title">Progress</h4>
+    <div class="widget__content">
+        <ul class="widget__list">
+            {{ $progress := .Site.Params.progress }}
+            {{ range $item := $progress }}
+            {{ $total := (math.Round (div (mul (index $item "now") 100.0) (index $item "max")))}}
+            <li class="widget__item">
+                <span>
+                    {{ index $item "name" }}:
+                </span>
+                <span style="float:right">
+                    <meter value="{{$total}}" max="100">{{$total}}%</meter>
+                    {{$total}}%
+                </span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>

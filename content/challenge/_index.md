@@ -35,4 +35,4 @@ Here's the complete list that will be updated as I make progress throughout the 
 * **3 Frigates**
 * **6 Brigs**
 
-## Completed: 89/142 = **62%**
+## {{< challenge 0 >}}
