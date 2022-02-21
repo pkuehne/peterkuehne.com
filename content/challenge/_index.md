@@ -14,7 +14,7 @@ Here's the complete list that will be updated as I make progress throughout the 
 
 * ~~20 Romans~~
 * ~~1 Scorpio + Crew (3 miniatures total)~~
-* **80 Britons** (40 done)
+* **80 Britons** (50 done)
 * ~~Greatjon Umber~~
 * ~~The Mountain that Rides~~
 * ~~12 Umber Berserkers~~

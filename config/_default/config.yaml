@@ -44,7 +44,7 @@ markup:
 params:
   progress:
     - name: "Painting Challenge"
-      now: 89
+      now: 99
       max: 142
   twitter_cards: true
   readmore: true
