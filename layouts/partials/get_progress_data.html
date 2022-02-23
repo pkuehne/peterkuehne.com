@@ -1,0 +1,2 @@
+{{ $percent := math.Round (div (mul (index .progress "now") 100.0) (index .progress "max")) }}
+{{ return (dict "now" (index .progress "now") "max" (index .progress "max") "percent" $percent) }}

@@ -1,6 +1,5 @@
-{{ $index := .Get 0}}
-{{ $progress := index .Site.Params.progress $index}}
-{{ $total := math.Round (div (mul (index $progress "now") 100.0) (index $progress "max")) }}
+{{ $config := index .Site.Params.progress (.Get 0) }}
+{{ $progress := partial "get_progress_data.html" (dict "progress" $config) }}
 <span>
-    Completed: {{ index $progress "now" }}/{{ index $progress "max" }} = <b>{{ $total}}%</b>
+    Completed: {{ $progress.now }}/{{ $progress.max }} = <b>{{ $progress.percent }}% </b>
 </span>
