@@ -1,0 +1,48 @@
+name: "Painting Challenge 2022"
+items:
+  - name: Romans
+    count: 20
+    done: 20
+  - name: Scorpio + Crew
+    count: 3
+    done: 3
+  - name: Britons
+    count: 80
+    done: 50
+  - name: Greatjon Umber
+    done: 1
+  - name: The Mountain that Rides
+    done: 1
+  - name: Umber Berserkers
+    count: 12
+    done: 12
+  - name: Berserker Captain
+    done: 1
+  - name: Sworn Sword flagbearers
+    count: 2
+    done: 2
+  - name: Lannister Halbedier Flagbearer
+    done: 1
+  - name: Lannister Guard Flagbearers
+    count: 2
+    done: 2
+  - name: Lannister Guard Captain
+    done: 1
+  - name: Lannister Assault Veteran
+    done: 1
+  - name: Bronn
+    done: 1
+  - name: Ramsay Snow
+    done: 1
+  - name: Brienne of Tarth
+  - name: The High Seneschal
+  - name: Allan Quatermain
+    done: 1
+  - name: Hugues de Payens
+    done: 1
+  - name: Elsa
+  - name: Anna
+  - name: Frigates
+    count: 3
+  - name: Brigs
+    count: 6

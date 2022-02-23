@@ -1,0 +1,22 @@
+{{ $config := index .Site.Params.progress (.Get 0) }}
+{{ $progress := partial "get_progress_data.html" (dict "progress" $config) }}
+<ul>
+    {{ range $progress.items }}
+    <li>
+        {{$completed := and (ge .done .count) (gt .done 0) }}
+        {{ if $completed }}
+        <del>
+            {{ else }}
+            <b>
+                {{ end }}
+                {{if gt .count 1}}{{.count}}{{end}}
+                {{ .name }}
+                {{ if $completed }}
+        </del>
+        {{ else }}
+        </b>
+        {{ end }}
+        {{if and (gt .count 1) (gt .done 0) (not $completed)}}({{.done}} done){{end}}
+    </li>
+    {{ end }}
+</ul>

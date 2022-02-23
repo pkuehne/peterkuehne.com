@@ -1,2 +1,23 @@
-{{ $percent := math.Round (div (mul (index .progress "now") 100.0) (index .progress "max")) }}
-{{ return (dict "now" (index .progress "now") "max" (index .progress "max") "percent" $percent) }}
+{{ $now := 0 }}
+{{ $max := 0 }}
+{{ $items := slice }}
+{{ if isset .progress "file" }}
+{{ with (index site.Data.progress .progress.file) }}
+{{ $items = .items }}
+{{ range .items }}
+{{ with .done }}
+{{ $now = (add $now .) }}
+{{ end }}
+{{ with .count }}
+{{ $max = (add $max . )}}
+{{ else }}
+{{ $max = (add $max 1 )}}
+{{ end }}
+{{ end }}
+{{ end }}
+{{ else }}
+{{ $now = (index .progress "now") }}
+{{ $max = (index .progress "max") }}
+{{ end }}
+{{ $percent := math.Round (div (mul $now 100.0) $max) }}
+{{ return (dict "now" $now "max" $max "percent" $percent "items" $items) }}

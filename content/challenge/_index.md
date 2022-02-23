@@ -12,27 +12,6 @@ I'm hoping to motivate myself to paint more in 2022 and actually keep track of a
 
 Here's the complete list that will be updated as I make progress throughout the year. You can follow updates in the [Painting Challenge 2022]({{< ref "/series/painting-challenge-2022" >}}):
 
-* ~~20 Romans~~
-* ~~1 Scorpio + Crew (3 miniatures total)~~
-* **80 Britons** (50 done)
-* ~~Greatjon Umber~~
-* ~~The Mountain that Rides~~
-* ~~12 Umber Berserkers~~
-* ~~Berserker Captain~~
-* ~~2 Sworn Sword flagbearers~~
-* ~~Lannister Halbedier Flagbearer~~
-* ~~2 Lannister Guard Flagbearers~~
-* ~~Lannister Guard Captain~~
-* ~~Lannister Assault Veteran~~
-* ~~Bronn~~
-* ~~Ramsay Snow~~
-* **The High Seneschal**
-* **Brienne of Tarth**
-* ~~Allan Quatermain~~
-* ~~Hugues de Payens~~
-* **Elsa**
-* **Anna**
-* **3 Frigates**
-* **6 Brigs**
+{{< list_progress_items 0 >}}
 
 ## {{< challenge 0 >}}
