@@ -8,7 +8,7 @@ items:
     done: 3
   - name: Britons
     count: 80
-    done: 50
+    done: 60
   - name: Greatjon Umber
     done: 1
   - name: The Mountain that Rides
@@ -36,6 +36,7 @@ items:
     done: 1
   - name: Brienne of Tarth
   - name: The High Seneschal
+    done: 1
   - name: Allan Quatermain
     done: 1
   - name: Hugues de Payens
