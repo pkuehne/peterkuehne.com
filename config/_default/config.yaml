@@ -45,6 +45,8 @@ params:
   progress:
     - name: "Painting Challenge"
       file: challenge-2022
+    - name: "ASOIAF Boxes"
+      file: asoiaf-boxes
   twitter_cards: true
   readmore: true
   authorbox: false
