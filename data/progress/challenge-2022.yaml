@@ -43,7 +43,9 @@ items:
   - name: Hugues de Payens
     done: 1
   - name: Elsa
+    done: 1
   - name: Anna
+    done: 1
   - name: Frigates
     count: 3
   - name: Brigs
