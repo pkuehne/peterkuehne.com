@@ -1,4 +1,4 @@
-{{ $config := index .Site.Params.progress (.Get 0) }}
+{{ $config := dict "file" (.Get 0) }}
 {{ $progress := partial "get_progress_data.html" (dict "progress" $config) }}
 <ul>
     {{ range $progress.items }}

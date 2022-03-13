@@ -12,6 +12,6 @@ I'm hoping to motivate myself to paint more in 2022 and actually keep track of a
 
 Here's the complete list that will be updated as I make progress throughout the year. You can follow updates in the [Painting Challenge 2022]({{< ref "/series/painting-challenge-2022" >}}):
 
-{{< list_progress_items 0 >}}
+{{< list_progress_items "challenge-2022" >}}
 
 ## {{< challenge 0 >}}

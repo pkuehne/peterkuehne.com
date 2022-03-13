@@ -17,7 +17,7 @@ I still have more things to paint for my [2022 Challenge][challenge], but with o
 
 Below is the (automatically) updating list of minis left on the list, while the progress bar on the right will update as I complete them.
 
-{{< list_progress_items 1 >}}
+{{< list_progress_items "asoiaf-boxes" >}}
 
 [challenge]: {{< ref "/challenge/" >}}
 [kickstarter]: {{< ref "a-song-of-ice-and-fire-kickstarter.md" >}}

@@ -12,7 +12,7 @@ series: "Painting Challenge 2022"
 
 As Monty Python said: "And now for something completely different." While I was browsing the internet forums and blogs, I came across a post by someone trying to get his young daughter into wargaming. To do that he painted up some of her favourite characters to use in a modified skirmish game. I liked the idea and wanted to see if I could replicate his results.
 
-So I went out searching for miniatures that could stand in for my daughter's favourite Disney heroine: Elsa from the film Frozen. I found another post on [TMP] of someone doing something very simmilar. They had found a couple of miniatures that could easily represent Elsa and her sister Anna. They were sold by [Hasslefree Miniatures][hasslefree] albeit as [Raisa] and [Cara]. They are very, very good approximations with very minor differences, mainly in the face. Raisa also shows slightly more leg than Elsa, but hey.
+So I went out searching for miniatures that could stand in for my daughter's favourite Disney heroine: Elsa from the film Frozen. I found another post on [TMP] of someone doing something very similar. They had found a couple of miniatures that could easily represent Elsa and her sister Anna. They were sold by [Hasslefree Miniatures][hasslefree] albeit as [Raisa] and [Cara]. They are very, very good approximations with very minor differences, mainly in the face. Raisa also shows slightly more leg than Elsa, but hey.
 
 Painting them was very interesting. I used a lot of reference pictures off the internet and tried to mix my paints as close as possible to what was inthe pictures. I still had to take some creative license, but all the key elements are there. From Elsa's paler skin colour to the light streak in Anna's hair.
 

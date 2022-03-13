@@ -1,8 +1,9 @@
 {{ $now := 0 }}
-{{ $max := 0 }}
+{{ $max := 1 }}
 {{ $items := slice }}
 {{ if isset .progress "file" }}
 {{ with (index site.Data.progress .progress.file) }}
+{{ $max = 0 }}
 {{ $items = .items }}
 {{ range .items }}
 {{ with .done }}
