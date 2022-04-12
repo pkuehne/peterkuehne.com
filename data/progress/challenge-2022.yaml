@@ -48,7 +48,7 @@ items:
     done: 1
   - name: Frigates
     count: 3
-    done: 2
+    done: 3
   - name: Brigs
     count: 6
-    done: 2
+    done: 6
