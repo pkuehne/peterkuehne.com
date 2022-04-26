@@ -1,6 +1,7 @@
 name: "ASOIAF boxes"
 items:
   - name: Eddard Stark
+    done: 1
   - name: Howland Reed
   - name: Bran & Hodor
   - name: Rodrik Cassel
