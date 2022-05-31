@@ -3,10 +3,14 @@ items:
   - name: Eddard Stark
     done: 1
   - name: Howland Reed
+    done: 1
   - name: Bran & Hodor
   - name: Rodrik Cassel
+    done: 1
   - name: Summer
+    done: 1
   - name: Brynden Tully
+    done: 1
   - name: Sandor Clegane
   - name: Maester Pycelle
   - name: Tyrion Lannister
