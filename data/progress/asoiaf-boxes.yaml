@@ -14,9 +14,11 @@ items:
     done: 1
   - name: Sandor Clegane
   - name: Maester Pycelle
+    done: 1
   - name: Tyrion Lannister
   - name: Tywin Lannister
   - name: The High Sparrow
+    done: 1
   - name: Roose Bolton
   - name: Ramsay Snow
   - name: Petyr Baelish
