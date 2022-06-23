@@ -13,10 +13,12 @@ items:
   - name: Brynden Tully
     done: 1
   - name: Sandor Clegane
+    done: 1
   - name: Maester Pycelle
     done: 1
   - name: Tyrion Lannister
   - name: Tywin Lannister
+    done: 1
   - name: The High Sparrow
     done: 1
   - name: Roose Bolton
