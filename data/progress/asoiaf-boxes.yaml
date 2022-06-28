@@ -17,6 +17,7 @@ items:
   - name: Maester Pycelle
     done: 1
   - name: Tyrion Lannister
+    done: 1
   - name: Tywin Lannister
     done: 1
   - name: The High Sparrow
