@@ -40,5 +40,6 @@ items:
     done: 12
   - name: Movement Trays
     count: 10
+    done: 10
   - name: Iron Throne
     done: 1
