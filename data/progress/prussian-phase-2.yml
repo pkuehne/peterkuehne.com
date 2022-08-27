@@ -14,12 +14,9 @@ items:
     done: 20
   - name: 3rd Battalion 10th Reserve Infantry
     count: 24
-  - name: 1st Squadron 1st Silesian Hussars
-    count: 12
-  - name: 2nd Squadron 1st Silesian Hussars
-    count: 12
-  - name: 3rd Squadron 1st Silesian Hussars
-    count: 6
+    done: 10
+  - name: 4 Squadrons Neumark Dragoons
+    count: 14
   - name: 1st Squadron 2nd Silesian Landwehr Cavalry
     count: 12
   - name: 4th Battalion Silesian Landwehr
