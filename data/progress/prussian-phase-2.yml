@@ -8,13 +8,13 @@ items:
     done: 6
   - name: 1st Battalion 10th Reserve Infantry
     count: 24
-    done: 20
+    done: 24
   - name: 2nd Battalion 10th Reserve Infantry
     count: 24
-    done: 20
+    done: 24
   - name: 3rd Battalion 10th Reserve Infantry
     count: 24
-    done: 10
+    done: 24
   - name: 4 Squadrons Neumark Dragoons
     count: 14
   - name: 1st Squadron 2nd Silesian Landwehr Cavalry
