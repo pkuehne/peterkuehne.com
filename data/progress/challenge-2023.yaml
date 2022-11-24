@@ -1,0 +1,30 @@
+name: "Painting Challenge 2023"
+items:
+  - name: Gondorian Archers
+    count: 12
+  - name: Gondorian Swordsmen
+    count: 11
+  - name: Gondorian Spearmen
+    count: 12
+  - name: Haradrim Archers
+    count: 5
+  - name: Haradrim Spearmen
+    count: 5
+  - name: Warg Rider Archers
+    count: 2
+  - name: Warg Rider Swordsmen
+    count: 2
+  - name: Warg Rider Spearmen
+    count: 2
+  - name: Elven Archers
+    count: 4
+  - name: Elven Swordsmen
+    count: 4
+  - name: Numenorian Swordsmen
+    count: 4
+  - name: Orc Archers
+    count: 9
+  - name: Orc Swordsmen
+    count: 12
+  - name: Orc Spearmen
+    count: 28
