@@ -67,6 +67,7 @@ params:
       - "progress"
       - "recent"
       - "categories"
+      - "series"
       - "taglist"
       - "social"
   widgets:

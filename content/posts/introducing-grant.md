@@ -9,7 +9,7 @@ tags:
     - tools
     - python
     - qt
-series: "Grant"
+series: ""
 ---
 
 {{< figure src="/grant.png" title="It's only version 0.1!" >}}
