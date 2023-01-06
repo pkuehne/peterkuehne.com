@@ -20,6 +20,6 @@ No we're half-way through February and I'm very proud to say that I'm also half-
 
 [boxset]: {{< ref "carronades-britons-and-cthulhu" >}}
 [asoiaf]: {{< ref "/series/asoiaf-kickstarter" >}}
-[chulhu]: {{< ref "/series/cthulhu-death-may-die" >}}
+[cthulhu]: {{< ref "/series/cthulhu-death-may-die" >}}
 [challenge]: {{< ref "challenge/" >}}
 [^batches]: I tend to paint units in batches of ten or twelve. Prussian battalions would be painted half the miniatures at a time.

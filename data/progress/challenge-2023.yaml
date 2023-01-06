@@ -1,5 +1,17 @@
 name: "Painting Challenge 2023"
 items:
+  - name: Bloodreavers
+    count: 23
+  - name: Blood Warriors
+    count: 10
+  - name: Khorgorath
+    count: 1
+  - name: Bloodstoker
+    count: 1
+  - name: Bloodsecrator
+    count: 1
+  - name: Mighty Lord of Khorne
+    count: 1
   - name: Gondorian Archers
     count: 12
   - name: Gondorian Swordsmen
@@ -28,3 +40,5 @@ items:
     count: 12
   - name: Orc Spearmen
     count: 28
+  - name: Werewolf
+    count: 1

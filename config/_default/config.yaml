@@ -44,9 +44,7 @@ markup:
 params:
   progress:
     - name: "Painting Challenge"
-      file: challenge-2022
-    - name: "ASOIAF Boxes"
-      file: asoiaf-boxes
+      file: challenge-2023
     - name: "Prussians Phase 2"
       file: prussian-phase-2
   twitter_cards: true
