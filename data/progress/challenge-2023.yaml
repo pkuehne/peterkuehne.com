@@ -1,9 +1,10 @@
 name: "Painting Challenge 2023"
 items:
   - name: Bloodreavers
-    count: 23
+    count: 20
+    done: 19
   - name: Blood Warriors
-    count: 10
+    count: 5
   - name: Khorgorath
     count: 1
   - name: Bloodstoker
@@ -41,4 +42,29 @@ items:
   - name: Orc Spearmen
     count: 28
   - name: Werewolf
-    count: 1
+  - name: Radagast
+  - name: Gandalf on Shadowfax
+  - name: Farmer with three dogs
+  - name: Gimli
+  - name: Merry
+  - name: Frodo
+  - name: Pippin
+  - name: Saruman
+  - name: Arwen with Frodo
+  - name: Legolas
+  - name: Assassin
+  - name: Tom Bombadil
+  - name: Lurtz
+  - name: Witching
+  - name: Ugluk
+  - name: Mordor Shaman
+  - name: Uruk captain
+  - name: Dwarf
+  - name: Balín
+  - name: Grishnak
+  - name: Perry in armour
+  - name: Pippin in armour
+  - name: Glorfindel
+  - name: Imronil
+  - name: Eimer
+  - name: Boromir
