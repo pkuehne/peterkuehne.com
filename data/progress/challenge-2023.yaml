@@ -2,9 +2,10 @@ name: "Painting Challenge 2023"
 items:
   - name: Bloodreavers
     count: 20
-    done: 19
+    done: 20
   - name: Blood Warriors
     count: 5
+    done: 5
   - name: Khorgorath
     count: 1
   - name: Bloodstoker
