@@ -8,10 +8,13 @@ items:
     done: 5
   - name: Khorgorath
     count: 1
+    done: 1
   - name: Bloodstoker
     count: 1
+    done: 1
   - name: Bloodsecrator
     count: 1
+    done: 1
   - name: Mighty Lord of Khorne
     count: 1
   - name: Gondorian Archers
