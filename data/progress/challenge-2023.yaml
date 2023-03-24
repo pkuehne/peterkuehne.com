@@ -17,10 +17,12 @@ items:
     done: 1
   - name: Mighty Lord of Khorne
     count: 1
+    done: 1
   - name: Gondorian Archers
     count: 12
   - name: Gondorian Swordsmen
     count: 11
+    done: 11
   - name: Gondorian Spearmen
     count: 12
   - name: Haradrim Archers
