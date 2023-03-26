@@ -20,6 +20,7 @@ items:
     done: 1
   - name: Gondorian Archers
     count: 12
+    done: 12
   - name: Gondorian Swordsmen
     count: 11
     done: 11
