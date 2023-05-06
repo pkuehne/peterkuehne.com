@@ -26,6 +26,7 @@ items:
     done: 11
   - name: Gondorian Spearmen
     count: 12
+    done: 12
   - name: Haradrim Archers
     count: 5
   - name: Haradrim Spearmen
@@ -49,6 +50,7 @@ items:
   - name: Orc Spearmen
     count: 28
   - name: Werewolf
+    done: 1
   - name: Radagast
   - name: Gandalf on Shadowfax
   - name: Farmer with three dogs
