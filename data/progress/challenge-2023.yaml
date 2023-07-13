@@ -28,7 +28,7 @@ items:
     count: 12
     done: 12
   - name: Haradrim Archers
-    count: 5
+    count: 6
   - name: Haradrim Spearmen
     count: 5
   - name: Warg Rider Archers
@@ -44,11 +44,13 @@ items:
   - name: Numenorian Swordsmen
     count: 4
   - name: Orc Archers
-    count: 9
+    count: 8
   - name: Orc Swordsmen
     count: 12
+    done: 12
   - name: Orc Spearmen
     count: 28
+    done: 28
   - name: Werewolf
     done: 1
   - name: Radagast
