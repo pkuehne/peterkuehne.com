@@ -45,6 +45,7 @@ items:
     count: 4
   - name: Orc Archers
     count: 8
+    done: 8
   - name: Orc Swordsmen
     count: 12
     done: 12
